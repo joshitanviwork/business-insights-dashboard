@@ -1,11 +1,11 @@
 # Business Insights & Sales Performance Dashboard
 
 Sales analytics dashboard built using SQL & Power BI to analyse revenue trends, customer behaviour, and product performance.
-# Business Insights & Sales Performance Dashboard
+# Business Insights & Sales Performance 
 
 ## Overview
 This project analyses sales data to uncover key business insights and trends using SQL and Power BI. The dashboard provides a clear view of revenue distribution, customer contribution, and product performance.
-dashboard.png 
+![Dashboard](dashboard.png)
 
 ## Tools Used
 - SQL (Data extraction & transformation)
